@@ -1,0 +1,15 @@
+.nav-link:hover {
+   color: coral !important;
+
+}
+
+.letter {
+   color: white !important;
+   font-size: small;
+   text-transform: lowercase !important;
+
+}
+
+.background {
+   background-color: black;
+}
